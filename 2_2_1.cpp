@@ -6,4 +6,5 @@ int main()
 {
     int Mangoes = 17;
     cout << "No. of Mangoes: " << Mangoes << endl;
+    return 0;
 }
