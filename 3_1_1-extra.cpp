@@ -23,5 +23,5 @@ int main()
     cout << "Enter a number";
     cin >> number;
     result = factorial(number);
-    cout << result;
+    cout << number << "! is " << result;
 }
